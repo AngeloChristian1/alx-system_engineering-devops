@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'It list files in the current dirrectory including hidden ones that start with . ,in long format'> ls_cwd_content
+ls -la >> ls_cwd_content
